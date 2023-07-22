@@ -1,6 +1,4 @@
-# AB-Testing-and-Hypothesis-Testing
-
-## E-news Express Project
+# E-news Express Project
 
 ### Problem definition
 
